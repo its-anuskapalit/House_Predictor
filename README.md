@@ -61,9 +61,4 @@ streamlit run app.py
 - Scikit-learn
 - Joblib
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-💡 **Feel free to contribute and enhance this project!** 🚀
 
